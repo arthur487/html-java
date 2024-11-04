@@ -9,3 +9,25 @@
     width: 100%;
     margin: 0 auto;
 }
+
+.container {
+    display: block;
+    justify-content: space-between;
+}
+
+.container li {
+    margin: 15px;
+}
+.container button {
+    padding: 15px;
+    background-color: greenyellow;
+    position: absolute;
+    left: 19%;
+}
+.container button:hover {
+    background-color: green;
+    cursor: pointer;
+}
+.container form {
+    left: 50%s;
+}
